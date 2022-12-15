@@ -1,1 +1,17 @@
-<svg width="56" height="56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="a"><stop stop-color="#FF6F48" offset="0%"/><stop stop-color="#F02AA6" offset="100%"/></linearGradient><path d="M35 22h-2c0-2.76-2.24-5-5-5s-5 2.24-5 5h-2c-1.1 0-1.99.9-1.99 2L19 36c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V24c0-1.1-.9-2-2-2Zm-7-3c1.66 0 3 1.34 3 3h-6c0-1.66 1.34-3 3-3Zm0 10c-2.76 0-5-2.24-5-5h2c0 1.66 1.34 3 3 3s3-1.34 3-3h2c0 2.76-2.24 5-5 5Z" id="b"/></defs><g fill="none" fill-rule="evenodd"><circle fill="url(#a)" cx="28" cy="28" r="28"/><use fill="#FFF" xlink:href="#b"/></g></svg>
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 18">
+<circle id="Oval" cx="28.0001" cy="28" r="28" fill="url(#paint0_linear_0_485)"/>
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M35.0001 22H33.0001C33.0001 19.24 30.7601 17 28.0001 17C25.2401 17 23.0001 19.24 23.0001 22H21.0001C19.9001 22 19.0101 22.9 19.0101 24L19.0001 36C19.0001 37.1 19.9001 38 21.0001 38H35.0001C36.1001 38 37.0001 37.1 37.0001 36V24C37.0001 22.9 36.1001 22 35.0001 22ZM28.0001 19C29.6601 19 31.0001 20.34 31.0001 22H25.0001C25.0001 20.34 26.3401 19 28.0001 19ZM28.0001 29C25.2401 29 23.0001 26.76 23.0001 24H25.0001C25.0001 25.66 26.3401 27 28.0001 27C29.6601 27 31.0001 25.66 31.0001 24H33.0001C33.0001 26.76 30.7601 29 28.0001 29Z" fill="white"/>
+<mask id="mask0_0_485" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="19" y="17" width="19" height="21">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M35.0001 22H33.0001C33.0001 19.24 30.7601 17 28.0001 17C25.2401 17 23.0001 19.24 23.0001 22H21.0001C19.9001 22 19.0101 22.9 19.0101 24L19.0001 36C19.0001 37.1 19.9001 38 21.0001 38H35.0001C36.1001 38 37.0001 37.1 37.0001 36V24C37.0001 22.9 36.1001 22 35.0001 22ZM28.0001 19C29.6601 19 31.0001 20.34 31.0001 22H25.0001C25.0001 20.34 26.3401 19 28.0001 19ZM28.0001 29C25.2401 29 23.0001 26.76 23.0001 24H25.0001C25.0001 25.66 26.3401 27 28.0001 27C29.6601 27 31.0001 25.66 31.0001 24H33.0001C33.0001 26.76 30.7601 29 28.0001 29Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_485)">
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_485" x1="0.00012207" y1="0" x2="0.00012207" y2="56" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF6F48"/>
+<stop offset="1" stop-color="#F02AA6"/>
+</linearGradient>
+</defs>
+</svg>
